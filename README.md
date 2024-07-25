@@ -44,7 +44,11 @@ To run the project locally, follow these steps:
    ```
 
 ---
-
+## Usage
+1. 
+```bash
+pip install gradio
+```
 
 ---
 
