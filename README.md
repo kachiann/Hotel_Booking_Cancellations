@@ -49,7 +49,9 @@ To run the project locally, follow these steps:
 ```bash
 pip install gradio
 ```
-
+2. ```bash
+   python gradio_app.py
+   ```
 ---
 
 ## Data
