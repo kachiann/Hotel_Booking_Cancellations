@@ -53,6 +53,7 @@ To run the project locally, follow these steps:
    python gradio_app.py
    ```
 ---
+![Interface](gradio.png)
 
 ## Data
 
