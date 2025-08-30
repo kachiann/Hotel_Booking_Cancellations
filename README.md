@@ -45,10 +45,10 @@ To run the project locally, follow these steps:
 
 ---
 ## Usage
-1. 
-```bash
-pip install gradio
-```
+1. ```bash
+   pip install gradio
+   ```
+
 2. ```bash
    python gradio_app.py
    ```
